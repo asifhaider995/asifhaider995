@@ -1,5 +1,5 @@
 ### Hi there 👋
-#### A Full Stack based Software Engineer working mostly with Python _snake 
+#### A Full Stack based Software Engineer working mostly with Python 🐍 
 
 <!--
 **asifhaider995/asifhaider995** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
